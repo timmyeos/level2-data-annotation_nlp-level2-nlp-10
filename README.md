@@ -62,10 +62,8 @@ level2-data-annotation_nlp-level2-nlp-10
 ├── train.csv
 ├── test.csv
 │
-│
 ├── EDA+Data Viz
 │   └── EDA+Data Viz.ipynb
-│   
 │   
 └── python
     ├── train.py
